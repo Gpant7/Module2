@@ -1,0 +1,158 @@
+body {
+  font-size: 16px;
+  color: #fff;
+  background-color: grey;
+}
+
+
+/*------------  HEADER  -------------*/
+
+#header-nav{
+	border-width:0px 0px 3px 0px;
+	border-radius: 0;
+	border-color: black;
+	background-color: grey;
+	text-align: left;
+	margin-bottom: 0px;
+}
+.navbar-brand{
+	padding: 25px;
+	text-align: left;
+	margin-top: 5px;
+}
+
+.navbar-brand h1 { /* header name */
+	color: black;
+	font-size: 1.5em;
+	font-weight: bold;
+	margin-top:-15px;
+}
+
+.navbar-brand a:hover, .navbar-brand a:focus {
+  text-decoration: none;
+}
+
+/*header-Button*/
+.navbar-header button.navbar-toggle {
+  margin-bottom:8px;
+  margin-top: 8px;
+}
+.navbar-header button.navbar-toggle, .navbar-header .icon-bar {
+  border: 2px solid black;
+  background-color: grey;
+}
+.navbar-header button.navbar-toggle:hover, .navbar-header button.navbar-toggle:focus{
+  background-color: grey;
+  border: 2px solid #b6b6b6;
+}
+.navbar-default .navbar-toggle:hover .icon-bar, .navbar-default .navbar-toggle:focus .icon-bar{
+  border: 2px solid #b6b6b6;
+}
+
+/*------------  END HEADER  -------------*/
+
+/*------------ MAIN-CONTENT -------------*/
+
+#main-content{
+  background-color: white;
+  color:black;
+  height:100%;
+  width:100%;
+  padding-bottom: 15px;
+}
+
+#main-content h3:nth-child(1){
+  margin-bottom: 20px;
+  font-weight: bold;
+} 
+
+#main-content h4{
+  font-weight: bold;
+  background-color: grey;
+  border-bottom: 2px dotted black;
+  margin:0;
+  padding-bottom: 10px;
+  padding-top: 10px;
+}
+
+#chicken-data div,#beef-data div,#sushi-data div{
+  background-color: grey;
+  padding-top: 5px;
+}
+
+#back-to-top {
+  font-style: italic;
+}
+#back-to-top a{
+  text-decoration: underline;
+  font-style: normal;
+}
+
+
+
+
+/*------------ END MAIN-CONTENT -------------*/
+
+
+
+/********** Large devices only **********/
+@media (min-width: 1200px) {
+
+  #chicken-data ,#beef-data {
+    padding-right: 0px;
+  }
+
+}
+
+/********** Medium devices only **********/
+@media (min-width: 992px) and (max-width: 1199px) {
+ 
+  #chicken-data ,#beef-data {
+     padding-right: 0px;
+  }
+
+}
+
+/********** Small devices only **********/
+@media (min-width: 768px) and (max-width: 991px) {
+  
+  #chicken-data{
+    padding-right: 0px;
+  }
+  #chicken-data div,   #beef-data div{
+    margin-bottom: 15px;
+  }
+}
+
+/********** Extra small devices only **********/
+@media (max-width: 767px) {
+  /* Header-Button-list*/
+  #collapsable-nav {
+    border-color: black;
+    border-width: 3px;
+
+  }
+  #collapsable-nav a { /* Collapsed nav menu text */
+    font-size: 1.5em;
+    color:black;   
+  }
+
+  #collapsable-nav li:not(:last-child) { /* Make the lines between the list elements */
+    border-bottom: 2px solid black;
+  }
+
+  #nav-list { /* The list */
+    margin-bottom: 0px;
+    margin-top: 0px;
+    text-align: center;
+    background-color: white;
+  }
+ 
+  /* End Header-Button-list */
+
+  /* End main-content */
+  #chicken-data div,   #beef-data div{
+    margin-bottom: 15px;
+  }
+  /* End main-content */
+}
