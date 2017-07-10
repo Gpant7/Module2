@@ -1,0 +1,351 @@
+<Robot 1 considering new position <0,9> at step 1
+<Robot 1 ignoring position <0,9> because it is out of bounds.
+<Robot 1 considering new position <2,9> at step 1
+<Robot 1 considering new position <1,8> at step 1
+<Robot 1 considering new position <1,10> at step 1
+<Robot 1 moving to new position <1,10> at step 1
+<Robot 1 considering new position <0,10> at step 2
+<Robot 1 ignoring position <0,10> because it is out of bounds.
+<Robot 1 considering new position <2,10> at step 2
+<Robot 1 considering new position <1,9> at step 2
+<Robot 1 considering new position <1,11> at step 2
+<Robot 1 moving to new position <2,9> at step 1
+<Robot 1 considering new position <1,9> at step 2
+<Robot 1 considering new position <3,9> at step 2
+<Robot 1 considering new position <2,8> at step 2
+<Robot 1 considering new position <2,10> at step 2
+<Robot 1 moving to new position <1,11> at step 2
+<Robot 1 considering new position <0,11> at step 3
+<Robot 1 ignoring position <0,11> because it is out of bounds.
+<Robot 1 considering new position <2,11> at step 3
+<Robot 1 considering new position <1,10> at step 3
+<Robot 1 considering new position <1,12> at step 3
+<Robot 1 moving to new position <2,10> at step 2
+<Robot 1 considering new position <1,10> at step 3
+<Robot 1 considering new position <3,10> at step 3
+<Robot 1 considering new position <2,9> at step 3
+<Robot 1 considering new position <2,11> at step 3
+<Robot 1 moving to new position <3,9> at step 2
+<Robot 1 considering new position <2,9> at step 3
+<Robot 1 considering new position <4,9> at step 3
+<Robot 1 considering new position <3,8> at step 3
+<Robot 1 considering new position <3,10> at step 3
+<Robot 1 moving to new position <2,11> at step 3
+<Robot 1 considering new position <1,11> at step 4
+<Robot 1 considering new position <3,11> at step 4
+<Robot 1 considering new position <2,10> at step 4
+<Robot 1 considering new position <2,12> at step 4
+<Robot 1 moving to new position <1,12> at step 3
+<Robot 1 considering new position <0,12> at step 4
+<Robot 1 ignoring position <0,12> because it is out of bounds.
+<Robot 1 considering new position <2,12> at step 4
+<Robot 1 considering new position <1,11> at step 4
+<Robot 1 considering new position <1,13> at step 4
+<Robot 1 moving to new position <3,10> at step 3
+<Robot 1 considering new position <2,10> at step 4
+<Robot 1 considering new position <4,10> at step 4
+<Robot 1 considering new position <3,9> at step 4
+<Robot 1 considering new position <3,11> at step 4
+<Robot 1 moving to new position <3,11> at step 4
+<Robot 1 considering new position <2,11> at step 5
+<Robot 1 considering new position <4,11> at step 5
+<Robot 1 considering new position <3,10> at step 5
+<Robot 1 considering new position <3,12> at step 5
+<Robot 1 moving to new position <2,12> at step 4
+<Robot 1 considering new position <1,12> at step 5
+<Robot 1 considering new position <3,12> at step 5
+<Robot 1 considering new position <2,11> at step 5
+<Robot 1 considering new position <2,13> at step 5
+<Robot 1 moving to new position <4,9> at step 3
+<Robot 1 considering new position <3,9> at step 4
+<Robot 1 considering new position <5,9> at step 4
+<Robot 1 considering new position <4,8> at step 4
+<Robot 1 considering new position <4,10> at step 4
+<Robot 1 moving to new position <4,10> at step 4
+<Robot 1 considering new position <3,10> at step 5
+<Robot 1 considering new position <5,10> at step 5
+<Robot 1 ignoring position <5,10> because of an obstacle.
+<Robot 1 considering new position <4,9> at step 5
+<Robot 1 considering new position <4,11> at step 5
+<Robot 1 moving to new position <1,13> at step 4
+<Robot 1 considering new position <0,13> at step 5
+<Robot 1 ignoring position <0,13> because it is out of bounds.
+<Robot 1 considering new position <2,13> at step 5
+<Robot 1 considering new position <1,12> at step 5
+<Robot 1 considering new position <1,14> at step 5
+<Robot 1 moving to new position <3,12> at step 5
+<Robot 1 considering new position <2,12> at step 6
+<Robot 1 considering new position <4,12> at step 6
+<Robot 1 considering new position <3,11> at step 6
+<Robot 1 considering new position <3,13> at step 6
+<Robot 1 moving to new position <2,13> at step 5
+<Robot 1 considering new position <1,13> at step 6
+<Robot 1 considering new position <3,13> at step 6
+<Robot 1 considering new position <2,12> at step 6
+<Robot 1 considering new position <2,14> at step 6
+<Robot 1 moving to new position <4,11> at step 5
+<Robot 1 considering new position <3,11> at step 6
+<Robot 1 considering new position <5,11> at step 6
+<Robot 1 considering new position <4,10> at step 6
+<Robot 1 considering new position <4,12> at step 6
+<Robot 1 moving to new position <1,8> at step 1
+<Robot 1 considering new position <0,8> at step 2
+<Robot 1 ignoring position <0,8> because it is out of bounds.
+<Robot 1 considering new position <2,8> at step 2
+<Robot 1 considering new position <1,7> at step 2
+<Robot 1 considering new position <1,9> at step 2
+<Robot 1 moving to new position <3,13> at step 6
+<Robot 1 considering new position <2,13> at step 7
+<Robot 1 considering new position <4,13> at step 7
+<Robot 1 considering new position <3,12> at step 7
+<Robot 1 considering new position <3,14> at step 7
+<Robot 1 moving to new position <4,12> at step 6
+<Robot 1 considering new position <3,12> at step 7
+<Robot 1 considering new position <5,12> at step 7
+<Robot 1 considering new position <4,11> at step 7
+<Robot 1 considering new position <4,13> at step 7
+<Robot 1 moving to new position <5,9> at step 4
+<Robot 1 considering new position <4,9> at step 5
+<Robot 1 considering new position <6,9> at step 5
+<Robot 1 ignoring position <6,9> because of an obstacle.
+<Robot 1 considering new position <5,8> at step 5
+<Robot 1 considering new position <5,10> at step 5
+<Robot 1 ignoring position <5,10> because of an obstacle.
+<Robot 1 moving to new position <1,14> at step 5
+<Robot 1 considering new position <0,14> at step 6
+<Robot 1 ignoring position <0,14> because it is out of bounds.
+<Robot 1 considering new position <2,14> at step 6
+<Robot 1 considering new position <1,13> at step 6
+<Robot 1 considering new position <1,15> at step 6
+<Robot 1 moving to new position <1,9> at step 2
+<Robot 1 considering new position <0,9> at step 3
+<Robot 1 ignoring position <0,9> because it is out of bounds.
+<Robot 1 considering new position <2,9> at step 3
+<Robot 1 considering new position <1,8> at step 3
+<Robot 1 considering new position <1,10> at step 3
+<Robot 1 moving to new position <4,13> at step 7
+<Robot 1 considering new position <3,13> at step 8
+<Robot 1 considering new position <5,13> at step 8
+<Robot 1 considering new position <4,12> at step 8
+<Robot 1 considering new position <4,14> at step 8
+<Robot 1 moving to new position <5,11> at step 6
+<Robot 1 considering new position <4,11> at step 7
+<Robot 1 considering new position <6,11> at step 7
+<Robot 1 ignoring position <6,11> because of an obstacle.
+<Robot 1 considering new position <5,10> at step 7
+<Robot 1 ignoring position <5,10> because of an obstacle.
+<Robot 1 considering new position <5,12> at step 7
+<Robot 1 moving to new position <2,14> at step 6
+<Robot 1 considering new position <1,14> at step 7
+<Robot 1 considering new position <3,14> at step 7
+<Robot 1 considering new position <2,13> at step 7
+<Robot 1 considering new position <2,15> at step 7
+<Robot 1 moving to new position <2,8> at step 2
+<Robot 1 considering new position <1,8> at step 3
+<Robot 1 considering new position <3,8> at step 3
+<Robot 1 considering new position <2,7> at step 3
+<Robot 1 considering new position <2,9> at step 3
+<Robot 1 moving to new position <5,12> at step 7
+<Robot 1 considering new position <4,12> at step 8
+<Robot 1 considering new position <6,12> at step 8
+<Robot 1 considering new position <5,11> at step 8
+<Robot 1 considering new position <5,13> at step 8
+<Robot 1 moving to new position <3,14> at step 7
+<Robot 1 considering new position <2,14> at step 8
+<Robot 1 considering new position <4,14> at step 8
+<Robot 1 considering new position <3,13> at step 8
+<Robot 1 considering new position <3,15> at step 8
+<Robot 1 moving to new position <5,13> at step 8
+<Robot 1 considering new position <4,13> at step 9
+<Robot 1 considering new position <6,13> at step 9
+<Robot 1 considering new position <5,12> at step 9
+<Robot 1 considering new position <5,14> at step 9
+<Robot 1 moving to new position <4,14> at step 8
+<Robot 1 considering new position <3,14> at step 9
+<Robot 1 considering new position <5,14> at step 9
+<Robot 1 considering new position <4,13> at step 9
+<Robot 1 considering new position <4,15> at step 9
+<Robot 1 moving to new position <5,14> at step 9
+<Robot 1 considering new position <4,14> at step 10
+<Robot 1 considering new position <6,14> at step 10
+<Robot 1 considering new position <5,13> at step 10
+<Robot 1 considering new position <5,15> at step 10
+<Robot 1 moving to new position <1,15> at step 6
+<Robot 1 considering new position <0,15> at step 7
+<Robot 1 ignoring position <0,15> because it is out of bounds.
+<Robot 1 considering new position <2,15> at step 7
+<Robot 1 considering new position <1,14> at step 7
+<Robot 1 considering new position <1,16> at step 7
+<Robot 1 moving to new position <3,8> at step 3
+<Robot 1 considering new position <2,8> at step 4
+<Robot 1 considering new position <4,8> at step 4
+<Robot 1 considering new position <3,7> at step 4
+<Robot 1 considering new position <3,9> at step 4
+<Robot 1 moving to new position <2,15> at step 7
+<Robot 1 considering new position <1,15> at step 8
+<Robot 1 considering new position <3,15> at step 8
+<Robot 1 considering new position <2,14> at step 8
+<Robot 1 considering new position <2,16> at step 8
+<Robot 1 moving to new position <6,12> at step 8
+<Robot 1 considering new position <5,12> at step 9
+<Robot 1 considering new position <7,12> at step 9
+<Robot 1 ignoring position <7,12> because of an obstacle.
+<Robot 1 considering new position <6,11> at step 9
+<Robot 1 ignoring position <6,11> because of an obstacle.
+<Robot 1 considering new position <6,13> at step 9
+<Robot 1 moving to new position <3,15> at step 8
+<Robot 1 considering new position <2,15> at step 9
+<Robot 1 considering new position <4,15> at step 9
+<Robot 1 considering new position <3,14> at step 9
+<Robot 1 considering new position <3,16> at step 9
+<Robot 1 moving to new position <6,13> at step 9
+<Robot 1 considering new position <5,13> at step 10
+<Robot 1 considering new position <7,13> at step 10
+<Robot 1 considering new position <6,12> at step 10
+<Robot 1 considering new position <6,14> at step 10
+<Robot 1 moving to new position <4,15> at step 9
+<Robot 1 considering new position <3,15> at step 10
+<Robot 1 considering new position <5,15> at step 10
+<Robot 1 considering new position <4,14> at step 10
+<Robot 1 considering new position <4,16> at step 10
+<Robot 1 moving to new position <6,14> at step 10
+<Robot 1 considering new position <5,14> at step 11
+<Robot 1 considering new position <7,14> at step 11
+<Robot 1 considering new position <6,13> at step 11
+<Robot 1 considering new position <6,15> at step 11
+<Robot 1 moving to new position <5,15> at step 10
+<Robot 1 considering new position <4,15> at step 11
+<Robot 1 considering new position <6,15> at step 11
+<Robot 1 considering new position <5,14> at step 11
+<Robot 1 considering new position <5,16> at step 11
+<Robot 1 moving to new position <6,15> at step 11
+<Robot 1 considering new position <5,15> at step 12
+<Robot 1 considering new position <7,15> at step 12
+<Robot 1 considering new position <6,14> at step 12
+<Robot 1 considering new position <6,16> at step 12
+<Robot 1 moving to new position <4,8> at step 4
+<Robot 1 considering new position <3,8> at step 5
+<Robot 1 considering new position <5,8> at step 5
+<Robot 1 considering new position <4,7> at step 5
+<Robot 1 considering new position <4,9> at step 5
+<Robot 1 moving to new position <1,16> at step 7
+<Robot 1 considering new position <0,16> at step 8
+<Robot 1 ignoring position <0,16> because it is out of bounds.
+<Robot 1 considering new position <2,16> at step 8
+<Robot 1 considering new position <1,15> at step 8
+<Robot 1 considering new position <1,17> at step 8
+<Robot 1 moving to new position <2,16> at step 8
+<Robot 1 considering new position <1,16> at step 9
+<Robot 1 considering new position <3,16> at step 9
+<Robot 1 considering new position <2,15> at step 9
+<Robot 1 considering new position <2,17> at step 9
+<Robot 1 moving to new position <3,16> at step 9
+<Robot 1 considering new position <2,16> at step 10
+<Robot 1 considering new position <4,16> at step 10
+<Robot 1 considering new position <3,15> at step 10
+<Robot 1 considering new position <3,17> at step 10
+<Robot 1 moving to new position <7,13> at step 10
+<Robot 1 considering new position <6,13> at step 11
+<Robot 1 considering new position <8,13> at step 11
+<Robot 1 considering new position <7,12> at step 11
+<Robot 1 ignoring position <7,12> because of an obstacle.
+<Robot 1 considering new position <7,14> at step 11
+<Robot 1 moving to new position <4,16> at step 10
+<Robot 1 considering new position <3,16> at step 11
+<Robot 1 considering new position <5,16> at step 11
+<Robot 1 considering new position <4,15> at step 11
+<Robot 1 considering new position <4,17> at step 11
+<Robot 1 moving to new position <5,16> at step 11
+<Robot 1 considering new position <4,16> at step 12
+<Robot 1 considering new position <6,16> at step 12
+<Robot 1 considering new position <5,15> at step 12
+<Robot 1 considering new position <5,17> at step 12
+<Robot 1 moving to new position <7,14> at step 11
+<Robot 1 considering new position <6,14> at step 12
+<Robot 1 considering new position <8,14> at step 12
+<Robot 1 considering new position <7,13> at step 12
+<Robot 1 considering new position <7,15> at step 12
+<Robot 1 moving to new position <1,7> at step 2
+<Robot 1 considering new position <0,7> at step 3
+<Robot 1 ignoring position <0,7> because it is out of bounds.
+<Robot 1 considering new position <2,7> at step 3
+<Robot 1 considering new position <1,6> at step 3
+<Robot 1 considering new position <1,8> at step 3
+<Robot 1 moving to new position <6,16> at step 12
+<Robot 1 considering new position <5,16> at step 13
+<Robot 1 considering new position <7,16> at step 13
+<Robot 1 considering new position <6,15> at step 13
+<Robot 1 considering new position <6,17> at step 13
+<Robot 1 moving to new position <7,15> at step 12
+<Robot 1 considering new position <6,15> at step 13
+<Robot 1 considering new position <8,15> at step 13
+<Robot 1 considering new position <7,14> at step 13
+<Robot 1 considering new position <7,16> at step 13
+<Robot 1 moving to new position <7,16> at step 13
+<Robot 1 considering new position <6,16> at step 14
+<Robot 1 considering new position <8,16> at step 14
+<Robot 1 considering new position <7,15> at step 14
+<Robot 1 considering new position <7,17> at step 14
+<Robot 1 moving to new position <5,8> at step 5
+<Robot 1 considering new position <4,8> at step 6
+<Robot 1 considering new position <6,8> at step 6
+<Robot 1 considering new position <5,7> at step 6
+<Robot 1 considering new position <5,9> at step 6
+<Robot 1 moving to new position <2,7> at step 3
+<Robot 1 considering new position <1,7> at step 4
+<Robot 1 considering new position <3,7> at step 4
+<Robot 1 considering new position <2,6> at step 4
+<Robot 1 considering new position <2,8> at step 4
+<Robot 1 moving to new position <7,17> at step 14
+<Robot 1 considering new position <6,17> at step 15
+<Robot 1 considering new position <8,17> at step 15
+<Robot 1 considering new position <7,16> at step 15
+<Robot 1 considering new position <7,18> at step 15
+<Robot 1 moving to new position <8,14> at step 12
+<Robot 1 considering new position <7,14> at step 13
+<Robot 1 considering new position <9,14> at step 13
+<Robot 1 considering new position <8,13> at step 13
+<Robot 1 considering new position <8,15> at step 13
+<Robot 1 moving to new position <5,17> at step 12
+<Robot 1 considering new position <4,17> at step 13
+<Robot 1 considering new position <6,17> at step 13
+<Robot 1 considering new position <5,16> at step 13
+<Robot 1 considering new position <5,18> at step 13
+<Robot 1 moving to new position <8,13> at step 11
+<Robot 1 considering new position <7,13> at step 12
+<Robot 1 considering new position <9,13> at step 12
+<Robot 1 considering new position <8,12> at step 12
+<Robot 1 considering new position <8,14> at step 12
+<Robot 1 moving to new position <8,17> at step 15
+move 0 = 1 9
+move 1 = 1 10
+move 2 = 1 11
+move 3 = 2 11
+move 4 = 3 11
+move 5 = 3 12
+move 6 = 3 13
+move 7 = 4 13
+move 8 = 5 13
+move 9 = 5 14
+move 10 = 6 14
+move 11 = 6 15
+move 12 = 6 16
+move 13 = 7 16
+move 14 = 7 17
+move 15 = 8 17
+
+
+move 0 = 13 9
+move 1 = 13 10
+move 2 = 13 11
+move 3 = 13 12
+move 4 = 13 13
+move 5 = 12 13
+move 6 = 12 14
+move 7 = 11 14
+move 8 = 11 15
+move 9 = 10 15
+move 10 = 10 16
+move 11 = 9 16
+move 12 = 9 17
+move 13 = 8 17
