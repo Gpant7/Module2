@@ -8,6 +8,8 @@ PROJECTS
 
 3. Html_Css_Javascript: Web page generation using html, css and javascript
 
+4. PHP: Web page generation using xampp,MySql,Apache and PHP.
+
 4. Java_Swing: Simple GUI construction using Graphics and Thread in Java. 
 
 5. Java_UCSDUnfoldingMaps: Earthquakes presentation in PApllet using Java and JSON.
