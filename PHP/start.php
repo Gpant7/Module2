@@ -18,13 +18,11 @@
 
 	// $_SESSION['username']='';
 	// $_SESSION['password']='';
-	// $error = " ";
 
 	if (isset($_POST['login'])){
 		//echo "mphke";
 		if (empty($_POST['username']) || empty($_POST['password'])){
-			$error = $error." Username or Password is invalid";
-			echo $error;
+			echo "Username or Password is invalid";
 		}
 		else{
 			$user =$_POST['username'];
@@ -64,7 +62,7 @@
 		}
 	}
 	else{
-		echo "Unable to get in";
+		//echo "Unable to get in";
 		//echo $_POST['username'];
 	}
 
@@ -72,14 +70,14 @@
 
 
 	
-		<form name="form" method="post" action="start.php">
-			<input type="text" name="username" placeholder="Username">
-			<input type="password" name="password" placeholder="Password">
-			<input type="submit" name="login" class = "button" value="Login">
+		<form name="form" method="post" action="">
+			<p><input type="text" name="username" placeholder="Username"></p>
+			<p><input type="password" name="password" placeholder="Password"></p>
+			<p><input type="submit" name="login" class = "button" value="Login"></p>
 		</form>
 	
 		<div class="login-help">
-			<a href="#">Register</a> - <a href="#">Forgot Password</a>
+			<a href="register.php">Register</a> 
 		</div>
 	</div>
 

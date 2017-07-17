@@ -8,11 +8,11 @@
 
 <?php
 	session_start();
-	//echo $_SESSION['username'];
+	//echo $_SESSION['password'];
 	if (isset($_SESSION['loggedin']) && $_SESSION['loggedin'] == true) {
-    echo "Welcome to the member's area, " . $_SESSION['username'] . "! <br>";
+    echo "<h2>Welcome to the member's area, " . $_SESSION['username'] . "!</h2> <br>";
 	} else {
-	    echo "Please log in first to see this page.";
+	    echo "Please log in first to see this page. <br>";
 	}
 
 	if (isset($_POST['change']))
@@ -20,14 +20,14 @@
 		//echo "mphke";
 		if (empty($_POST['username'])||empty($_POST['old_password'])||($_POST['username']!=$_SESSION['username'])||(sha1($_POST['username'].$_POST['old_password'])!= $_SESSION['password']))
 		{
-			echo " Username and old password not valid";
+			echo " Username or old password not valid";
 		}
 		else
 		{
-			echo "correct username and Old password";
+			echo "Correct username and Old password<br>";
 			if (empty($_POST['password1']) || empty($_POST['password2']))
 			{
-				$error = " New Password is not printed";
+				$error = " You should Double-print the New Password !";
 				echo $error;
 			}
 			else
@@ -36,6 +36,7 @@
 				$pass2 =$_POST['password2'];
 				if ($pass1==$pass2){
 					$new_pass = sha1($_SESSION['username'].$pass1);
+					$_SESSION['password']=$new_pass;
 					$query_change_password = "update innoview set password=\"".$new_pass."\" where username=\"".$_SESSION['username']."\"";
 					//echo $query_change_password;
 
@@ -65,24 +66,33 @@
 	// 	echo "staying";
 	// }
 ?>
-<h2>Change your password</h2> 
+
+<h4>Change your password</h4> 
 	<div class="container">
 		<form name="form" method="post" action="change_pass.php">
-			<div>
-				<input type="text" name="username" placeholder="Username">
-			<input type="password" name="old_password" placeholder="old_password">
+			<div> Type your Username and  Password
+				<p><input type="text" name="username" placeholder="Username"></p>
+				<p><input type="password" name="old_password" placeholder="old_password"></p>
 			</div>
-			<div>
-			<input type="password" name="password1" placeholder=" New password">
-			<input type="password" name="password2" placeholder="Re-type new password">
+			<div> Now type twice the new Password
+			<p><input type="password" name="password1" placeholder=" New password"></p>
+			<p><input type="password" name="password2" placeholder="Re-type new password"></p>
 			</div>
 			<div>
 				<input type="submit" name="change" class = "button" value="Submit">
 			</div>
 		</form>
-		<form method="post" action="start.php">
-			<input type="submit" name="logout" class="button" value="Log out">
+		<div id="logout">
+			<form name="logout" method="post" action="logout.php">
+				If you want to logout, just push the button<p><input type="submit" name="logout" class="button" value="Log out"></p>
+			</form>
+		</div>
+		<div id="text_editor">
+		<form method="post" action="text_editor.php">
+			Go to the text editor
+			<p><input type="submit" name="text_editor" class="button" value="Text Editor"></p>
 		</form>
+		</div>
 	</div>
 
 </body>
